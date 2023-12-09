@@ -6,7 +6,7 @@
 * It worked on 2023-12-03 with ~90% of ~1400 all images being downloaded
   * some issues arose with images that were not available on the aws server
 
-# Usage
+## Usage
 
   * Fill the config gaps marked by `TODO_CONFIG`.
   * Run.
